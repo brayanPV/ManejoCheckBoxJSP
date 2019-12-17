@@ -1,0 +1,14 @@
+SMAP
+prueba_jsp.java
+JSP
+*S JSP
+*F
++ 0 prueba.jsp
+RF2/JSP/prueba.jsp
+*L
+5,16:47
+21,4:64
+24,4:68
+28:72,3
+29,12:75
+*E
